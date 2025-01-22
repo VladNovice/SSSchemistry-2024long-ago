@@ -1,4 +1,4 @@
-![th-1132334530](https://github.com/user-attachments/assets/5e6877ce-1429-44a0-b647-ae79cfe65641)
+![изображение](https://github.com/user-attachments/assets/86f591ac-a539-4807-b3d6-de0ffd91b119)
 
 Химия мне не оч нрав, пришлось делать консольные приколюхи чтоб учить 
 
