@@ -40,11 +40,11 @@ if __name__ == "__main__":
     while True:
         total_balls = guess_elements(total_balls)  
 
-        if total_balls >= 23:
+        if total_balls >= 11:
             print("\nСпасибо за игру! У вас всего", total_balls, "баллов. Оценка: 5")
-        elif total_balls >= 20:
+        elif total_balls >= 10:
             print("Спасибо за игру! У вас всего", total_balls, "баллов. Оценка: 4")
-        elif total_balls >= 15:
+        elif total_balls >= 8:
             print("Спасибо за игру! У вас всего", total_balls, "баллов. Оценка: 3")
         else:
             print("Спасибо за игру! У вас всего", total_balls, "баллов. Оценка: 2")
