@@ -48,5 +48,8 @@ if __name__ == "__main__":
             print("Спасибо за игру! У вас всего", total_balls, "баллов. Оценка: 3")
         else:
             print("Спасибо за игру! У вас всего", total_balls, "баллов. Оценка: 2")
-        break  
+        if input("Хотите попробывать еще раз?: " == "ДА"):
+            total_balls = 0, guess_elements()
+        else:
+            break
          
